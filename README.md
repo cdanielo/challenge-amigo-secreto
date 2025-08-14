@@ -2,6 +2,8 @@
 
 ¡Bienvenido al proyecto Amigo Secreto! Esta es una aplicación web simple que te permite sortear un amigo secreto entre un grupo de personas.
 
+![](assets/screenshot.png)
+
 ---
 
 ## 💻 Tecnologías
